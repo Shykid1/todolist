@@ -1,1 +1,1 @@
-python-3.10.6
+web gunicorn todolist.wsgi:application --log-file -
